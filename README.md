@@ -1,6 +1,7 @@
 # python-games-development
 here games created by python:)
-the first game is ping pong game!
-![Uploading pong.PNG…]()
+the first game is ping pong game!![pong](https://user-images.githubusercontent.com/65115786/134494993-505fac57-13ed-45f0-af30-edfa7023687f.PNG)
+
+
 guide to use : press the UP and DOWN arrow to move the red paddle
                press "w" and "s" to move the blue paddle
